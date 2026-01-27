@@ -61,7 +61,7 @@ It is built using **Pivot Tables, Pivot Charts, Slicers, and Conditional Formatt
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](Screenshot 2025-11-15 193634.png/dashboard_preview.)
 
 ---
 
