@@ -1,4 +1,6 @@
 # 📊 Sales Dashboard (Excel Project)
+<img width="942" height="462" alt="Screenshot 2025-11-15 193634" src="https://github.com/user-attachments/assets/1f4e6e54-c637-4ece-a12a-bd770a78361c" />
+
 
 This repository contains a complete **Sales Analytics Dashboard** built in Microsoft Excel.  
 The project showcases data cleaning, visualization, KPI tracking, trend analysis, and business insights using raw sales data.
